@@ -4,7 +4,9 @@ My Home SOC Lab Project
 Overview
 
 A hands‑on Security Operations Center home lab built using Splunk, Windows 10, Kali Linux, Sysmon, and real attack simulations.
- Table of Contents
+
+ Table of Contents:
+ 
 • 	Overview
 • 	Architecture
 • 	Objectives
