@@ -58,23 +58,11 @@ The goal is to simulate real‑world SOC workflows including log ingestion, dete
 * Simulation = Nmap, Metasploit, Powershell abuse, Hydra
 * Analysis = SPL, Dashboards, Alerts
 
-# 🌐 Lab Topology
-* +-------------------+         +---------------------------+
-* | Windows 10 VM     | ----->  | Splunk Universal Forwarder |
-* | Sysmon + EventLog |         | (Log Forwarding)           |
-* +-------------------+         +---------------------------+
-                                        |
-                                       v
-                            +----------------------+
-                            | Splunk Enterprise   |
-                            | (Indexing + Search) |
-                            +----------------------+
-                                       ^
-                                       |
-+-------------------+                  |
-| Kali Linux VM     | ----------------+
-| Attack Simulation |
-+-------------------+
+# 🚀 Deployment Steps
+## VirtualBox Environment Setup
+* Installed VirtualBox
+* Created Windows 10 VM
+* Created Kali Linux VM
+* Configured host-only netowrking for isolated traffic
 
-
-
+## Spl
