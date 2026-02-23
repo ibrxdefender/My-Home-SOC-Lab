@@ -4,9 +4,9 @@
 
 ## 📌 Table of Contents
 
-## Overview
-## Architecture
-## Objectives
+# Overview
+# Architecture
+# Objectives
 ## Tools & Technologies
 ## Lab Topology
 ## Deployment Steps
