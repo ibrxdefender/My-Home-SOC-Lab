@@ -1,26 +1,28 @@
-🛡️ My Home SOC Lab Project
-A hands‑on Security Operations Center home lab built using Splunk, Windows 10, Kali Linux, Sysmon, and real attack simulations.
+# 🛡️ My Home SOC Lab Project
 
-📌 Table of Contents
-Overview
-Architecture
-Objectives
-Tools & Technologies
-Lab Topology
-Deployment Steps
-• 	1. VirtualBox Environment Setup
-• 	2. Splunk Enterprise Installation
-• 	3. Universal Forwarder Setup
-• 	4. Sysmon Deployment
-• 	5. Data Onboarding in Splunk
-• 	6. Kali Linux Attack Simulation
-• 	7. Detection Engineering (SPL)
-• 	8. Incident Investigation
-• 	Splunk Searches
-• 	Results & Findings
-• 	Future Improvements
+## A hands‑on Security Operations Center home lab built using Splunk, Windows 10, Kali Linux, Sysmon, and real attack simulations.
 
-🧭 Overview
+## 📌 Table of Contents
+
+## Overview
+ Architecture
+ Objectives
+ Tools & Technologies
+ Lab Topology
+ Deployment Steps
+ VirtualBox Environment Setup
+ Splunk Enterprise Installation
+ Universal Forwarder Setup
+ Sysmon Deployment
+ Data Onboarding in Splunk
+ Kali Linux Attack Simulation
+ Detection Engineering (SPL)
+ Incident Investigation
+ Splunk Searches
+ Results & Findings
+ Future Improvements
+
+# 🧭 Overview
 This project documents the creation of a complete SOC Home Lab using VirtualBox, Splunk Enterprise, Windows 10, Kali Linux, and Sysmon.
 The goal is to simulate real‑world SOC workflows including log ingestion, detection engineering, threat simulation, and incident investigation.
 
