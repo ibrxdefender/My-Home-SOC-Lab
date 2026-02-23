@@ -44,6 +44,9 @@ The goal is to simulate real‑world SOC workflows including log ingestion, dete
 * 	Investigate suspicious activity end‑to‑end
 * 	Document findings and lessons learned
 
+# 🧭 Overview
+* This project documents the creation of a complete SOC Home Lab using VirtualBox, Splunk Enterprise, Windows 10, Kali Linux, and Sysmon.
+* The goal is to simulate real‑world SOC workflows including log ingestion, detection engineering, threat simulation, and incident investigation.
 
 
 
