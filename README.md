@@ -4,10 +4,10 @@
 
 ## 📌 Table of Contents
 
-Overview
-Architecture
-Objectives
-Tools & Technologies
+* Overview
+* Architecture
+* Objectives
+* Tools & Technologies
 Lab Topology
 Deployment Steps
 VirtualBox Environment Setup
