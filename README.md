@@ -48,6 +48,33 @@ The goal is to simulate real‑world SOC workflows including log ingestion, dete
 * This project documents the creation of a complete SOC Home Lab using VirtualBox, Splunk Enterprise, Windows 10, Kali Linux, and Sysmon.
 * The goal is to simulate real‑world SOC workflows including log ingestion, detection engineering, threat simulation, and incident investigation.
 
+# 🛠️ Tools & Technologies
+* Virtualisation = VirtualBox
+* SIEM = Splunk Enterprise
+* Endpoint = Windows 10
+* Attacker = Kali Linux
+* Logging = Sysmon, Windows Event Logs
+* Forwarding = Splunk Universal Forwarder
+* Simulation = Nmap, Metasploit, Powershell abuse, Hydra
+* Analysis = SPL, Dashboards, Alerts
+
+# 🌐 Lab Topology
+* +-------------------+         +---------------------------+
+* | Windows 10 VM     | ----->  | Splunk Universal Forwarder |
+* | Sysmon + EventLog |         | (Log Forwarding)           |
+* +-------------------+         +---------------------------+
+                                        |
+                                       v
+                            +----------------------+
+                            | Splunk Enterprise   |
+                            | (Indexing + Search) |
+                            +----------------------+
+                                       ^
+                                       |
++-------------------+                  |
+| Kali Linux VM     | ----------------+
+| Attack Simulation |
++-------------------+
 
 
 
