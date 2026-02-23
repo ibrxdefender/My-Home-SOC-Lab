@@ -8,41 +8,41 @@
 * Architecture
 * Objectives
 * Tools & Technologies
-Lab Topology
-Deployment Steps
-VirtualBox Environment Setup
-Splunk Enterprise Installation
-Universal Forwarder Setup
-Sysmon Deployment
-Data Onboarding in Splunk
-Kali Linux Attack Simulation
-Detection Engineering (SPL)
-Incident Investigation
-Splunk Searches
-Results & Findings
-Future Improvements
+* Lab Topology
+* Deployment Steps
+* VirtualBox Environment Setup
+* Splunk Enterprise Installation
+* Universal Forwarder Setup
+* Sysmon Deployment
+* Data Onboarding in Splunk
+* Kali Linux Attack Simulation
+* Detection Engineering (SPL)
+* Incident Investigation
+* Splunk Searches
+* Results & Findings
+* Future Improvements
 
 # 🧭 Overview
 This project documents the creation of a complete SOC Home Lab using VirtualBox, Splunk Enterprise, Windows 10, Kali Linux, and Sysmon.
 The goal is to simulate real‑world SOC workflows including log ingestion, detection engineering, threat simulation, and incident investigation.
 
-🏗️ Architecture
-Components:
-• 	VirtualBox hypervisor
-• 	Windows 10 VM (monitored endpoint)
-• 	Kali Linux VM (attacker machine)
-• 	Splunk Enterprise Server
-• 	Splunk Universal Forwarder
-• 	Sysmon for detailed endpoint telemetry
+# 🏗️ Architecture
+## Components:
+*   VirtualBox hypervisor
+* 	Windows 10 VM (monitored endpoint)
+*   Kali Linux VM (attacker machine)
+*   Splunk Enterprise Server
+* 	Splunk Universal Forwarder
+* 	Sysmon for detailed endpoint telemetry
 
-🎯 Objectives
-• 	Build a functional SOC environment
-• 	Collect and analyze Windows logs using Splunk
-• 	Deploy Sysmon for high‑fidelity telemetry
-• 	Simulate real‑world attacks from Kali Linux
-• 	Create SPL‑based detections
-• 	Investigate suspicious activity end‑to‑end
-• 	Document findings and lessons learned
+# 🎯 Objectives
+* 	Build a functional SOC environment
+* 	Collect and analyze Windows logs using Splunk
+* 	Deploy Sysmon for high‑fidelity telemetry
+* 	Simulate real‑world attacks from Kali Linux
+* 	Create SPL‑based detections
+* 	Investigate suspicious activity end‑to‑end
+* 	Document findings and lessons learned
 
 
 
