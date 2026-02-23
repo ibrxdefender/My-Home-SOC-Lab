@@ -2,12 +2,12 @@
 A hands‑on Security Operations Center home lab built using Splunk, Windows 10, Kali Linux, Sysmon, and real attack simulations.
 
 📌 Table of Contents
-• 	Overview
-• 	Architecture
-• 	Objectives
-• 	Tools & Technologies
-• 	Lab Topology
-• 	Deployment Steps
+Overview
+Architecture
+Objectives
+Tools & Technologies
+Lab Topology
+Deployment Steps
 • 	1. VirtualBox Environment Setup
 • 	2. Splunk Enterprise Installation
 • 	3. Universal Forwarder Setup
