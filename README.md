@@ -5,22 +5,22 @@
 ## 📌 Table of Contents
 
 ## Overview
- Architecture
- Objectives
- Tools & Technologies
- Lab Topology
- Deployment Steps
- VirtualBox Environment Setup
- Splunk Enterprise Installation
- Universal Forwarder Setup
- Sysmon Deployment
- Data Onboarding in Splunk
- Kali Linux Attack Simulation
- Detection Engineering (SPL)
- Incident Investigation
- Splunk Searches
- Results & Findings
- Future Improvements
+## Architecture
+## Objectives
+## Tools & Technologies
+## Lab Topology
+## Deployment Steps
+## VirtualBox Environment Setup
+## Splunk Enterprise Installation
+## Universal Forwarder Setup
+## Sysmon Deployment
+## Data Onboarding in Splunk
+## Kali Linux Attack Simulation
+## Detection Engineering (SPL)
+## Incident Investigation
+## Splunk Searches
+## Results & Findings
+## Future Improvements
 
 # 🧭 Overview
 This project documents the creation of a complete SOC Home Lab using VirtualBox, Splunk Enterprise, Windows 10, Kali Linux, and Sysmon.
